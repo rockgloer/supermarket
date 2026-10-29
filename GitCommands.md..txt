@@ -1,0 +1,4 @@
+git rm -r --cached Library Logs UserSettings
+git add .gitignore
+git commit -m "Remove unnecessary Unity folders"
+git push

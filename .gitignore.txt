@@ -7,3 +7,8 @@
 [Bb]uild/
 [Bb]uilds/
 .vs/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]serSettings/
