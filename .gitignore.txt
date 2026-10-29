@@ -2,13 +2,8 @@
 [Tt]emp/
 [Oo]bj/
 [Ll]ogs/
-[Uu]ser[Ss]ettings/
+[Uu]serSettings/
 [Mm]emoryCaptures/
 [Bb]uild/
 [Bb]uilds/
 .vs/
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Ll]ogs/
-[Uu]serSettings/
